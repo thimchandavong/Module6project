@@ -4,7 +4,6 @@ Thimblelina's Boutique is a project Thim created during her college days. After 
 for viewers to purchased on her website.
 
 Table of contents
-
 * [Installation instructions](https://instructions.brp.com/content/instruction-sheet/en_CA/e-instruction.html#tab=1) - The web framework used
 * [Usage](http://www.silkysaws.com/Usage-Instructions) - Dependency Management
 * [Credits](https://en.wikipedia.org/wiki/Credit) - Used to generate RSS Feeds
@@ -12,24 +11,20 @@ Table of contents
 
 
 Installation Instructions
-
 * *Install Atom*
 * *Install Azure and set up your account*
 * *Install FileZilla*
 * *Install Bitnami*
 
 Usage
-
 The site should be used with the intent to spend money on items purchased through ThimBlelina's Boutique. 
 
 Credits
-
 The author of the site is Thim Chandavong, a student at Rasmussen College deligently putting it together while working full time 
 and raising children. 
 
 
 Lincensing
-
 Copyright (c) 2011-2017 GitHub Inc.
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy,
